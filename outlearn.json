@@ -1,0 +1,25 @@
+{
+  "olpVersion" : "0.1",
+
+  "paths" : [
+    {
+      "name" : "all-modules",
+      "title" : "All Modules by Ravi Kiran",
+      "description" : "See in one place all the modules published by Ravi Kiran.",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/space.jpg",
+      "privacy" : "public",
+      "pages" : [
+        {"module" : "unit-testing-angular-controller-jasmine"}
+      ]
+    }
+  ],
+
+  "modules" : [
+    {
+      "olm" : "./modules/unit-testing-angular-controller-jasmine.md"
+    }
+  ],
+
+  "assets" : [
+  ]
+}

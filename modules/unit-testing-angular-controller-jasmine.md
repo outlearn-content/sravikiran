@@ -6,6 +6,7 @@
 "description": "See the power of Jasmine in action with unit testing in Angular.",
 "freshnessDate" : 2013-04-06,
 "homepage" : "http://sravi-kiran.blogspot.com/2013/04/UnitTestingAngularJsControllerUsingJasmine.html",
+"canonicalSource" : "http://sravi-kiran.blogspot.com/2013/04/UnitTestingAngularJsControllerUsingJasmine.html",
 "license" : "All Rights Reserved"
 }
 -->
